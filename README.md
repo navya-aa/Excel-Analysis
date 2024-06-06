@@ -5,7 +5,9 @@
 The National Health Service's (NHS) effectiveness can be evaluated by taking into account the length of the cancer treatment wait list and the occupancy rate of NHS hospitals. These factors offer helpful perceptions and insights into the effectiveness of the healthcare system, allowing medical professionals to identify areas that need to improve patient care quality.
 To ensure that patients receive quick treatment, which is crucial for their survival and recovery, patients with suspected cancer have a maximum 62-day wait period before receiving their first cancer treatment following an urgent referral from their GP. The NHS bed occupancy rate refers to the percentage of hospital beds that are currently occupied by patients in order to assess the NHS's capacity to handle the demand for medical care. Increased bed occupancy can lead to overcrowding, protracted waiting times, and a higher risk of infection, all of which can be detrimental to patient’s well-being.
 The information about cancer waiting times and bed occupancy forecasting using linear trend, the linear trend with seasonality, and exponential smoothing is examined in this report to help medical professionals streamline resource distribution, control patient traffic, increase patient satisfaction, and reduce operational costs while maintaining or raising the standard of medical care.
-      2. Forecasting Evaluation
+      
+
+2. Forecasting Evaluation
  
 a)    Forecasting techniques play a critical role in ensuring that NHS Scotland allocates resources effectively and meets the healthcare needs of the population. To measure the success of their forecasting techniques, management at NHS Scotland should consider four key questions.
  
