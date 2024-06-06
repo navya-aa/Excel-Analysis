@@ -72,8 +72,11 @@ The use of business intelligence (BI) technologies in healthcare, particularly i
 Patient privacy[6] is a critical concern, and must ensure that data is encrypted, access is restricted to approved workers only, and data breaches are reported to the Information Commissioner's Office (ICO) if the BI system collects information that can be used to identify specific patients. Informed consent is also essential, and NHS Scotland must tell patients about data collection and planned uses, as patients have the right to know how their data is being used and to opt-out.
 Business intelligence systems can be biased and discriminatory[6], thus NHS Scotland must verify that the algorithms used to train the system are fair and that no patients are singled out for prejudice. Transparency and accountability[6]  are also critical, and must be upfront and honest about how data is used, who has access to it, and if it can be confirmed.
 Finally, they must protect data[6] from unlawful access, alteration, or destruction. If the BI system is used to identify patients at high risk of getting a specific disease, the data must be securely maintained, and only approved workers should be provided access.
+
 To summarise, implementing BI tools in NHS Scotland requires careful consideration of ethical, legal, and privacy concerns to guarantee that patient data is properly handled and used. Following these guidelines will increase trust and confidence in the usage of BI technologies in healthcare.
  
+
+
 7.   References
  
 1.     Cancer patient’s surgery was cancelled three times due to ICU beds shortage. (2021). BBC News. [online] 7 Dec. Available at: https://www.bbc.co.uk/news/uk-scotland-tayside-central-59561747.
